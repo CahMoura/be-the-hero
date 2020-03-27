@@ -3,4 +3,3 @@
  <b>Seja um Heroi!</b>
 </h4>
 
-<p>App produzido na Semana Omnistack 11.0 da @rocketseat 🚀<p>
