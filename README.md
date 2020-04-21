@@ -3,7 +3,9 @@
  <b>Seja um Heroi!</b>	
 </h1>	
 
+<h2 align="center">
 <img align="center" src="https://github.com/CahMoura/be-the-hero/blob/master/frontend/src/assets/heroes.png"></img>
+</h2>
 
 # Sobre
 <p>Este projeto foi produzido na Semana Omnistack 11, com o objetivo de ajudar ONGs que podem se cadastrar pela aplicação web e pelo App. Após o cadastro é gerado um ID único para o cadastrado e outros podem fazer doações para ajudar as instituições.</p>
