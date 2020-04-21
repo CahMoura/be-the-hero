@@ -1,6 +1,5 @@
 <h1 align="center">	
-<img src="https://github.com/CahMoura/be-the-hero/blob/master/frontend/src/assets/logo.svg" width="250px" /><br>	
- <b>Seja um Heroi!</b>	
+<img src="https://github.com/CahMoura/be-the-hero/blob/master/frontend/src/assets/logo.svg" width="250px" /><br>		
 </h1>	
 
 <h2 align="center">
