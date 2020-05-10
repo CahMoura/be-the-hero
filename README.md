@@ -3,7 +3,7 @@
 </h1>	
 
 <h2 align="center">
-<img align="center" src="https://github.com/CahMoura/be-the-hero/blob/master/frontend/src/assets/heroes.png"></img>
+<img align="center" src="https://github.com/CahMoura/be-the-hero/blob/master/frontend/src/assets/heroes.png"/>
 </h2>
 
 # Sobre
