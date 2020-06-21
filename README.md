@@ -6,12 +6,12 @@
 <img align="center" src="https://github.com/CahMoura/be-the-hero/blob/master/frontend/src/assets/heroes.png"/>
 </h2>
 
-# Sobre
-<p>Este projeto foi produzido na Semana Omnistack 11, com o objetivo de ajudar ONGs que podem se cadastrar pela aplicação web e pelo App. Após o cadastro é gerado um ID único para o cadastrado e outros podem fazer doações para ajudar as instituições.</p>
+# About
+<p>This project was produced at Omnistack Week 11, with the aim of helping NGOs that can register through the web application and the App. After registration is generated a unique ID for the registered and others can make donations to help institutions.</p>
 
-# Tecnologias utilizadas: 
+# Technologies: 
 
-<p>Este projeto foi desenvolvido com as tecnologias abaixo:</p>
+<p>This project was developed with the following technologies:</p>
 <ul>
 <li><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></li>
 <li><a href="https://expo.io/" rel="nofollow">Expo</a></li>
@@ -25,35 +25,35 @@
 </ul>
 +
 <ul>
- <li>JavaScript - Linguagem</li>
+ <li>JavaScript</li>
  <li>React</li>
  <li>React Native</li>
  <li>HTML</li>
  <li>CSS</li>
- <li>SQlite - Banco de Dados</li>
+ <li>SQlite - Database</li>
 </ul>
 
 
-# Aplicação Web
+# Web
 
-<p>Para rodar a aplicação web:</p>
+<p>To run the web application:</p>
 <ul>
  <li> 
-  Entar na pasta Frontend e rodar no Terminal:
-  <code>npm install</code> depois <code>npm start</code>
+  Enter the Frontend folder and run in terminal:
+  <code>npm install</code> after <code>npm start</code>
  </li>
  <li>
-  Na pasta Back-end rodar no Terminal, com Insomnia cadastrado:
-  <code>npm install</code> depois <code>npm start</code>
+ In the Back-end folder run in the Terminal, with Insomnia registered:
+  <code>npm install</code> after <code>npm start</code>
  </li>
 </ul>
 
-# Aplicação Mobile
+# Mobile
 
-<p>Abra a pasta mobile e no Terminal:</p>
+<p>Open the mobile folder and terminal:</p>
 <ul>
- <li>Instalar o pacote node
-  <code>npm install</code> e depois <code>npm start</code>
+ <li>Install node package
+  <code>npm install</code> after <code>npm start</code>
  </li>
 </ul>
 
